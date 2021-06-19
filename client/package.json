@@ -8,5 +8,8 @@
   },
   "devDependencies": {
     "snowpack": "^3.5.7"
+  },
+  "dependencies": {
+    "socket.io-client": "^4.1.2"
   }
 }
